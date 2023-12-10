@@ -1,4 +1,5 @@
 <div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=FutureDevKing&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
   <a href="https://github.com/FutureDevKing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FutureDevKing&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FutureDevKing&layout=compact&langs_count=6&theme=tokyonight"/>
