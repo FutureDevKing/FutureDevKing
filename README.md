@@ -1,5 +1,6 @@
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
   <a href="https://github.com/FutureDevKing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FutureDevKing&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FutureDevKing&layout=compact&langs_count=6&theme=tokyonight"/>
